@@ -25,6 +25,10 @@ h1, h2, h3 {
     color: #252525;
 }
 
+.hidden {
+    display: none;
+}
+
 /* Header */
 header {
     background-color: #ffffff;
@@ -126,7 +130,7 @@ main {
     margin: 20px auto;
 }
 
-#resons h2 {
+#reasons h2 {
     margin-bottom: 20px;
     text-align: center;
     font-size: 280%;
